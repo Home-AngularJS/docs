@@ -72,6 +72,7 @@ http://stackoverflow.com/questions/27850234/npm-install-error-npm-optimist-0-3-7
 > sudo npm config set proxy http://biplane:en2009@proxy.pbank.com.ua:8080/
 > sudo npm config set https-proxy https://biplane:en2009@proxy.pbank.com.ua:8080/
 -----------------------------------------------------------------------------------------[ npm not working - “read ECONNRESET” ]
+( http://stackoverflow.com/questions/18419144/npm-not-working-read-econnreset )
 > sudo npm config set registry http://registry.npmjs.org/
 sudo npm install -g express
 sudo npm install url -g
