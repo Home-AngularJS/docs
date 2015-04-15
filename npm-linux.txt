@@ -34,6 +34,35 @@ http://stackoverflow.com/questions/27850234/npm-install-error-npm-optimist-0-3-7
 ...
   -----------------------------------------------------------------------------------------
 
+  -----------------------------------------------------------------------------------------[ Как исправить ошибку: E: Sub-process /usr/bin/dpkg returned an error code ]
+  http://morikoff.ru/e-sub-process-usr-bin-dpkg-returned-error-code.html
+> cd /var/lib/dpkg/info
+> sudo rm paket.*
+> sudo apt-get install -f && dpkg --configure -a
+
+> sudo apt-get remove --purge nodejs
+> sudo apt-get remove --purge node
+> sudo apt-get remove --purge npm
+
+  -----------------------------------------------------------------------------------------[ Download the Node.js source code ]
+  https://nodejs.org/download/
+  ( sudo apt-get install -y nodejs ) https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager
+  ( sudo apt-get install node )
+  ( sudo apt-get install npm )
+> tar -xvf node-v0.12.2.tar.gz
+> cd .../node-v0.12.2
+> ./configure
+> make
+> make install
+> node -v
+v0.12.2
+> npm -v
+2.7.4
+> npm -g ls
+...
+( /etc/environment ) NODE_PATH=/usr/lib/node_modules
+( /etc/environment ) PATH="...:/usr/local/ant/bin:/usr/local/node-v0.12.2-linux-x64/bin"
+
 http://wil.boayue.com/blog/2013/06/14/using-npm-behind-a-proxy/
 http://stackoverflow.com/questions/27850234/npm-install-error-npm-optimist-0-3-7-linux-mint
   -----------------------------------------------------------------------------------------[ 'proxy' config is set properly.  See: 'npm help config' ]
@@ -42,6 +71,8 @@ http://stackoverflow.com/questions/27850234/npm-install-error-npm-optimist-0-3-7
 ( npm --https-proxy=https://biplane:en2009@proxy.pbank.com.ua:8080/ -g install karma )
 > sudo npm config set proxy http://biplane:en2009@proxy.pbank.com.ua:8080/
 > sudo npm config set https-proxy https://biplane:en2009@proxy.pbank.com.ua:8080/
+-----------------------------------------------------------------------------------------[ npm not working - “read ECONNRESET” ]
+> sudo npm config set registry http://registry.npmjs.org/
 sudo npm install -g express
 sudo npm install url -g
 sudo npm install fresh -g
@@ -57,6 +88,7 @@ sudo npm install karma-jasmine -g
 sudo npm install jasmine -g
 sudo npm install express-generator -g
 sudo npm install -g generator-angular-fullstack
+( npm install karma-jasmine --save-dev ) https://www.npmjs.com/package/karma-jasmine
   -----------------------------------------------------------------------------------------
 
   -----------------------------------------------------------------------------------------[ ]
@@ -136,17 +168,3 @@ http://belyakov.su/primer-ispolzovaniya-angularjs ( https://github.com/neo-class
                           http://www.startersquad.com/blog/angularjs-requirejs/
 . (С чего начать изучение AngularJS ** angular-seed) http://stepansuvorov.com/blog/2012/12/с-чего-начать-изучение-angularjs/
                                                      https://github.com/angular/angular-seed
-
-
-
-
-
-
-
-
-
-
-
-
-
-
