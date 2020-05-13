@@ -1,4 +1,4 @@
-(Çàãðóç÷èê ìîäóëåé RequireJS) http://stepansuvorov.com/blog/2012/10/çàãðóç÷èê-ìîäóëåé-requirejs/
+(Ã‡Ã Ã£Ã°Ã³Ã§Ã·Ã¨Ãª Ã¬Ã®Ã¤Ã³Ã«Ã¥Ã© RequireJS) http://stepansuvorov.com/blog/2012/10/Ã§Ã Ã£Ã°Ã³Ã§Ã·Ã¨Ãª-Ã¬Ã®Ã¤Ã³Ã«Ã¥Ã©-requirejs/
                               http://requirejs.org/
 							  http://requirejs.org/docs/download.html#2-1-16
 							  ( https://www.nuget.org/packages/RequireJS/2.1.16 )
@@ -7,8 +7,8 @@
 							  https://github.com/shyamseshadri/angularjs-book
 							  ( http://localhost/angularjs/angularjs-book/chapter4/guthub/ )
 
-                 (AngularJS + RequireJS + Jasmine + Karma - ïóñòü âñå æèâóò ìèðíî) iantonov.me/page/yeoman-generator-proektov-dlja-angularjs
-(Personal Maps: òåñòèðîâàíèå AngularJS ñåðâèñà ñ ïîìîùüþ Jasmine è Karma. ×àñòü 5) http://www.simplecoding.org/personal-maps-testirovanie-angularjs-servisa-s-pomoshhyu-jasmine-i-karma-chast-5.html
+                 (AngularJS + RequireJS + Jasmine + Karma - Ã¯Ã³Ã±Ã²Ã¼ Ã¢Ã±Ã¥ Ã¦Ã¨Ã¢Ã³Ã² Ã¬Ã¨Ã°Ã­Ã®) iantonov.me/page/yeoman-generator-proektov-dlja-angularjs
+(Personal Maps: Ã²Ã¥Ã±Ã²Ã¨Ã°Ã®Ã¢Ã Ã­Ã¨Ã¥ AngularJS Ã±Ã¥Ã°Ã¢Ã¨Ã±Ã  Ã± Ã¯Ã®Ã¬Ã®Ã¹Ã¼Ã¾ Jasmine Ã¨ Karma. Ã—Ã Ã±Ã²Ã¼ 5) http://www.simplecoding.org/personal-maps-testirovanie-angularjs-servisa-s-pomoshhyu-jasmine-i-karma-chast-5.html
                                                                                    http://personal-maps.simplecoding.org/site/contact
 																				   
 (trackr: An AngularJS app with a Java 8 backend - Part ||) http://blog.techdev.de/trackr-an-angularjs-app-with-a-java-8-backend-part-ii/
@@ -37,20 +37,20 @@
              (How to Configure IntelliJ IDEA For Angular JS Testing) http://tatiyants.com/how-to-configure-intellij-idea-for-angular-js-testing/
                              (Running nodejs and express on Windows) https://coderwall.com/p/mbov6w/running-nodejs-and-express-on-windows
                                      (Express application generator) http://expressjs.com/starter/generator.html
-(IntelliJ Idea – How to create Node.js project with Express support) http://georgik.sinusgear.com/2012/10/26/intellij-idea-how-to-create-node-js-project-with-express-support/
-               (2. Óñòàíîâêà Node.js è ñîçäàíèå áàçîâîãî ïðèëîæåíèÿ) http://nodeguide.ru/doc/dailyjs-nodepad/node-tutorial-2/
+(IntelliJ Idea Â– How to create Node.js project with Express support) http://georgik.sinusgear.com/2012/10/26/intellij-idea-how-to-create-node-js-project-with-express-support/
+               (2. Ã“Ã±Ã²Ã Ã­Ã®Ã¢ÃªÃ  Node.js Ã¨ Ã±Ã®Ã§Ã¤Ã Ã­Ã¨Ã¥ Ã¡Ã Ã§Ã®Ã¢Ã®Ã£Ã® Ã¯Ã°Ã¨Ã«Ã®Ã¦Ã¥Ã­Ã¨Ã¿) http://nodeguide.ru/doc/dailyjs-nodepad/node-tutorial-2/
 			   (Getting Started with Testing JavaScript in WebStorm) https://www.youtube.com/watch?v=QQSySPpzmPI
 			           (Introduction & Explore to AngularJS at 2015) https://www.youtube.com/watch?v=u2okVLCrqgE
 			 (Setting-up AngularJS, Angular Seed, Node.js and Karma) https://bardevblog.wordpress.com/2013/07/28/setting-up-angularjs-angular-seed-node-js-and-karma/
 
 https://github.com/joyent/node
 
-(HTML5 ïðîñòûìè ñëîâàìè) http://www.dejurka.ru/articless/html5-in-simple-words/
+(HTML5 Ã¯Ã°Ã®Ã±Ã²Ã»Ã¬Ã¨ Ã±Ã«Ã®Ã¢Ã Ã¬Ã¨) http://www.dejurka.ru/articless/html5-in-simple-words/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-http://stepansuvorov.com/blog/2012/12/ñ-÷åãî-íà÷àòü-èçó÷åíèå-angularjs/
+http://stepansuvorov.com/blog/2012/12/Ã±-Ã·Ã¥Ã£Ã®-Ã­Ã Ã·Ã Ã²Ã¼-Ã¨Ã§Ã³Ã·Ã¥Ã­Ã¨Ã¥-angularjs/
 http://stepansuvorov.com/blog/2013/06/start-with-angularjs-part2/
-http://stepansuvorov.com/blog/2013/01/testacular-â-ïîìîùü-òåñòèðîâàíèþ/
+http://stepansuvorov.com/blog/2013/01/testacular-Ã¢-Ã¯Ã®Ã¬Ã®Ã¹Ã¼-Ã²Ã¥Ã±Ã²Ã¨Ã°Ã®Ã¢Ã Ã­Ã¨Ã¾/
 http://www.sitepoint.com/html-forms-angularjs/
 http://www.webmasters.by/articles/web-programming/3068-html-forms-in-angularjs.html
 ( http://localhost/angularjs/tmp/ )
@@ -69,7 +69,26 @@ http://www.javacodegeeks.com/2014/09/angularjs-tutorial-getting-started-with-ang
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-(Îñíîâû EJB: ÷àñòü 1) http://j4sq.blogspot.com/2011/10/ejb-1.html
+(ÃŽÃ±Ã­Ã®Ã¢Ã» EJB: Ã·Ã Ã±Ã²Ã¼ 1) http://j4sq.blogspot.com/2011/10/ejb-1.html
+
+
+(Smart Table)
+ -----------
+>> (smart-table-ng) https://www.npmjs.com/package/smart-table-ng
+>> (Smart table for Angular â€” part 1) https://itnext.io/smart-table-for-angular-part-1-515ef6cb2d0a
+>>> (Smart Table examples) https://lorenzofox3.github.io/smart-table-website/
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
